@@ -4,6 +4,7 @@ import os.path
 def main(path):
     path_root = path
     dst_doc = path_root + '\\' + 'documents'
+    
     global new_folders
   
     
